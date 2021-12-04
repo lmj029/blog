@@ -7,4 +7,4 @@ draft: false
 
 ### just for test
 
-lalalal
+更新如何生成站点
