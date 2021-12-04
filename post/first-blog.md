@@ -7,4 +7,4 @@ draft: false
 
 ### just for test
 
-更新如何生成站点
+pipeline 应该搞好了吧。
